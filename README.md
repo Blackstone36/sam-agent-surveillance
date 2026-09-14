@@ -166,10 +166,6 @@ The project combines:
 
 This combination is intended to support more interpretable and operationally useful surveillance anomaly detection.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 This project builds upon the research and open-source contributions of the Segment Anything Model 2 project and the broader computer-vision and explainable-AI communities.
